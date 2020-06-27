@@ -1,21 +1,21 @@
 # Plugin SHOP | FR
 
 ### Sommaire
- - Gérer les catégories
+ - [Gérer les catégories](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#g%C3%A9rer-les-cat%C3%A9gories)
  - Gérer les articles
  - Gérer les paiements
  - Gérer les promotions
  
  
-### Gérez les catégories
+### Gérer les catégories
 En écriture...
 
-### Gérez les articles
+### Gérer les articles
 En écriture 
 
-### Gérez les paiements
+### Gérer les paiements
 En écriture
 
-### Gérez les promotions
+### Gérer les promotions
 En écriture
 
