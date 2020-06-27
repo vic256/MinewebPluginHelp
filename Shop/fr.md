@@ -2,12 +2,12 @@
 
 ## Sommaire
  - [Gérer les catégories](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#g%C3%A9rer-les-cat%C3%A9gories)
- - Gérer les articles
- - Gérer les paiements
-   - Ajouter une offre paypal
-   - Ajouter une offre dedipass
-   - Fonctionnement du système PaySafeCard
- - Gérer les promotions
+ - [Gérer les articles](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#g%C3%A9rer-les-articles)
+ - [Gérer les paiements](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#g%C3%A9rer-les-paiements)
+   - [Ajouter une offre paypal](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#ajouter-une-offre-paypal)
+   - [Ajouter une offre dedipass](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#ajouter-une-offre-dedipass)
+   - [Fonctionnement du système PaySafeCard](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#fonctionnement-du-syst%C3%A8me-paysafecard)
+ - [Gérer les promotions](https://github.com/vic256/MinewebPluginHelp/blob/master/Shop/fr.md#g%C3%A9rer-les-promotions)
  
  
 ## Gérer les catégories
